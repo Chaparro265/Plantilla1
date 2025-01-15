@@ -390,7 +390,8 @@ html, body {
     }
 
     .inicio {
-        padding-top: 150px;
+        padding-top: 400px;
+        margin-left: 400px;
     }
 
     .inicio .h1 {
